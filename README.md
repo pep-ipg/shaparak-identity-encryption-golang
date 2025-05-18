@@ -35,5 +35,5 @@
 ### 1. دریافت پروژه
 
 ```bash
-git clone https://github.com/your-username/shaparak-identity-encryption-golang.git
+git clone https://github.com/mahdifj/shaparak-identity-encryption-golang.git
 cd shaparak-identity-encryption-golang
