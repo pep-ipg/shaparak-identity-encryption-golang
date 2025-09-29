@@ -85,7 +85,7 @@ func main() {
 	data := IdentityData{
 		PersonalityType: "0",
 		NationalId:      nationalId,
-		RandomSalt:      "124578",
+		RandomSalt:      "12456378",
 	}
 
 	plain := buildPlainString(data)
